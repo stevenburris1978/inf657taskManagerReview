@@ -6,7 +6,7 @@ import Task from './app/components/Task/Task';
 
 export default function App() {
 
-  const [taskList, setTaskList] = useState(TaskData);
+  // const [taskList, setTaskList] = useState(TaskData);
 
 // //  uncomment the line to get task list app w image description
 
