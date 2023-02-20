@@ -3,6 +3,7 @@ const TaskData = [
         id: 1,
         title: "do stuff",
         description: "needs done soon",
+        image: require("../../../assets/office.png"),
     },
 
 
@@ -10,6 +11,7 @@ const TaskData = [
         id: 2,
         title: "do stuff",
         description: "needs done soon",
+        image: require("../../../assets/office.png"),
     },
 
 
@@ -17,6 +19,7 @@ const TaskData = [
         id: 3,
         title: "do stuff",
         description: "needs done soon",
+        image: require("../../../assets/office.png"),
     },
 ];
 
